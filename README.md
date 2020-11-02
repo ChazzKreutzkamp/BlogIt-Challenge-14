@@ -7,6 +7,7 @@ Welcome to BlogIt! BlogIt is a simple blogging app, where you can sign up with a
 ## Important Links:
 
 My GitHub Account: [ChazzKreutzkamp](https://github.com/ChazzKreutzkamp)
+
 Heroku deployed URL: [Heroku Link]()
 
 ## Any Further Questions Feel Free to Contact Me:
