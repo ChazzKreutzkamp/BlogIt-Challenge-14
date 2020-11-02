@@ -13,16 +13,19 @@
     <header>
         <nav>
             <ul>
+                <li>
+                    <a href="/">Home</a>
+                </li>
                 {{#if loggedIn}}
                 <li>
-                    <a href="/dashboard">dashboard</a>
+                    <a href="/dashboard">Dashboard</a>
                 </li>
                 <li>
-                    <button id="logout" class="btn-no-style">logout</button>
+                    <button id="logout" class="btn-no-style">Logout</button>
                 </li>
                 {{else}}
                 <li>
-                    <a href="/login">login</a>
+                    <a href="/login">Login</a>
                 </li>
                 {{/if}}
             </ul>
@@ -35,6 +38,7 @@
         {{{ body }}}
     </main>
     <footer>
+        <h2>Thanks for visiting BlogIt</h2>
     </footer>
     {{#if loggedIn}}
     <script src="/javascript/logout.js"></script>

@@ -1,0 +1,14 @@
+<div class="container">
+    <div class="row">
+        {{#each this}}
+        <div class="col-12">
+            <div class="card bg-light mb-3">
+                <div class="card-header">{{user.username}} on {{format_date created_at}}</div>
+                <div class="card-body">
+                    <p class="card-text">{{comment_text}}</p>
+                </div>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</div>

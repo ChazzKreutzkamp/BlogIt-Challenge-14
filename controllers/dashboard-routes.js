@@ -86,4 +86,7 @@ router.get('/edit/:id', withAuth, (req, res) => {
             res.status(500).json(err);
         });
 });
+router.get('/create', withAuth, (req, res) => {
+    res.render('post-new');
+});
 module.exports = router;

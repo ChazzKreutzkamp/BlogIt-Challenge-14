@@ -1,0 +1,14 @@
+<h2><a href="/dashboard/create">Click Here to Create a New Post</a></h2>
+{{#if posts.length}}
+<section>
+    <h2>Your Posts</h2>
+    <ol>
+        {{#each posts as |post|}}
+        <li>
+            {{> post-info-edit post}}
+            <a href="/dashboard/edit/{{post.id}}" class="edit-link">EDIT POST</a>
+        </li>
+        {{/each}}
+    </ol>
+</section>
+{{/if}}
