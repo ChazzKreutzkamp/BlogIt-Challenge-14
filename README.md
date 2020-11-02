@@ -8,7 +8,7 @@ Welcome to BlogIt! BlogIt is a simple blogging app, where you can sign up with a
 
 My GitHub Account: [ChazzKreutzkamp](https://github.com/ChazzKreutzkamp)
 
-Heroku deployed URL: [Heroku Link]()
+Heroku deployed URL: [Heroku Link](https://fierce-caverns-72769.herokuapp.com/)
 
 ## Any Further Questions Feel Free to Contact Me:
 
