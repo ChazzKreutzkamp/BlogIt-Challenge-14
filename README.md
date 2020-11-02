@@ -16,19 +16,19 @@ My Email: chazz.kreutzkamp@gmail.com
 ## Image of the Application in Action:
 
 ### Homepage
-![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README_IMG/Home.JPG)
+![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README-IMG/Home.JPG)
 
 ### Login Screen
-![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README_IMG/Login.JPG)
+![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README-IMG/Login.JPG)
 
 ### Signup Screen
-![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README_IMG/signup.JPG)
+![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README-IMG/signup.JPG)
 
 ### Dashboard Screen
-![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README_IMG/dashboard.JPG)
+![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README-IMG/dashboard.JPG)
 
 ### Edit Screen
-![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README_IMG/edit.JPG)
+![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README-IMG/edit.JPG)
 
 ### Comment
-![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README_IMG/Comment.JPG)
+![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README-IMG/Comment.JPG)
