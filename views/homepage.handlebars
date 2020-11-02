@@ -1,0 +1,8 @@
+<h2 class="mr-2">Posts Made By Our Members:</h2>
+<div class="container">
+    <div class="row">
+        {{#each posts as |post|}}
+        {{> post-info post }}
+        {{/each}}
+    </div>
+</div>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BlogIt</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                {{#if loggedIn}}
+                <li>
+                    <a href="/dashboard">dashboard</a>
+                </li>
+                <li>
+                    <button id="logout" class="btn-no-style">logout</button>
+                </li>
+                {{else}}
+                <li>
+                    <a href="/login">login</a>
+                </li>
+                {{/if}}
+            </ul>
+        </nav>
+        <h1>
+            <a href="/">BlogIt</a>
+        </h1>
+    </header>
+    <main>
+        {{{ body }}}
+    </main>
+    <footer>
+    </footer>
+    {{#if loggedIn}}
+    <script src="/javascript/logout.js"></script>
+    {{/if}}
+</body>
+
+</html>
