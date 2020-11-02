@@ -22,7 +22,7 @@ function idleLogout() {
 
     function resetTimer() {
         clearTimeout(time);
-        time = setTimeout(logout, 120000); //resets after 20 minutes
+        time = setTimeout(logout, 1200000); //resets after 20 minutes
     }
 }
 
